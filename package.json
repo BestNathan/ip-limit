@@ -1,0 +1,17 @@
+{
+  "name": "ip-limit",
+  "version": "1.0.0",
+  "description": "koa ip limit middleware using Redis",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Nathan",
+  "license": "MIT",
+  "devDependencies": {
+    "koa": "^2.5.1",
+    "koa-onerror": "^4.0.0"
+  },
+  "dependencies": {
+    "ioredis": "^3.2.2"
+  }
+}
